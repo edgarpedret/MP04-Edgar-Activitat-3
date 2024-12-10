@@ -8,6 +8,7 @@ quantes CPUs té el sistema.
   ![Captura desde 2024-12-03 12-00-38](https://github.com/user-attachments/assets/162a9a3a-0f1a-4c2a-9f78-aa11cfd642a7)
 4. Obre Firefox i utilitza la comanda top i fes una captura, sobre la captura fes
 el següent:
+
     Indica si el sistema està més carregat ara que fa cinc minuts o menys
     carregat, justifica per què?
   • Busca el PID del procés Firefox.
@@ -22,7 +23,7 @@ el següent:
   ![Captura desde 2024-12-03 12-09-30](https://github.com/user-attachments/assets/8eebd311-f9cd-4021-b52c-e96375f71c52)
   ![Captura desde 2024-12-03 12-11-01](https://github.com/user-attachments/assets/f37a0f9c-a0c7-4a46-b963-73075d01ab87)
  
-5. Amb la comanda htop mostra el percentatge de la memòria utilitzada.
+6. Amb la comanda htop mostra el percentatge de la memòria utilitzada.
     ![Captura desde 2024-12-03 12-20-07](https://github.com/user-attachments/assets/9305c51d-54f0-4876-9377-63c7a24ab61f)
 7. Utilitzant gnome-system-monitor mostra:
   • El procés que utilitza més memòria.
