@@ -27,26 +27,69 @@ el següent:
     ![Captura desde 2024-12-03 12-20-07](https://github.com/user-attachments/assets/9305c51d-54f0-4876-9377-63c7a24ab61f)
 7. Utilitzant gnome-system-monitor mostra:
   • El procés que utilitza més memòria.
+![image](https://github.com/user-attachments/assets/f5e1df8b-dbeb-42da-816f-4dfa266d1f24)
+
   • El procés que utilitza més CPU.
+  ![image](https://github.com/user-attachments/assets/a8ebc962-4a26-4b2b-86c9-7b10cbda2ed4)
+
   • Obre el programa calculadora i busca'l.
+  ![image](https://github.com/user-attachments/assets/11188897-84da-4cb2-82df-cb0a560781f0)
+
   • Indica el seu PID.
+  ![image](https://github.com/user-attachments/assets/8a132d80-739c-4969-9ab5-fb4ac56a9a50)
+
+
   • Mata el procés.
+  ![image](https://github.com/user-attachments/assets/8d480774-5e93-4542-bbf1-5b964a1413b6)
+
   • Amb el monitor de recursos mostra l'activitat de xarxa.
+  ![image](https://github.com/user-attachments/assets/0fe4787b-2ab3-41e6-aa5c-b98c2ee59dc8)
+
   • Amb Sistema de fitxers mostra l'espai lliure a /home.
+  ![image](https://github.com/user-attachments/assets/cb918ce7-1a81-4901-a9a2-3b57799b710e)
+
   • mostra l'espai lliure a l'arrel del sistema.
+  ![image](https://github.com/user-attachments/assets/0dc1234b-0d89-40b4-88a8-0b48d5835dfd)
+
   • Canvia les preferències per que els processos s'actualitzin cada 2
     segons i per que mostri l'estat d'execució dels processos.
+    ![image](https://github.com/user-attachments/assets/b7ff0866-b1d0-437b-aeb1-8a48ceec8255)
+
   • Busca els processos que estan en estat d'execució i mostra'ls.
-8. Monitoratge:
+  ![image](https://github.com/user-attachments/assets/05ee5f6e-05ab-41fc-93fa-91c8a0ec145f)
+
+9. Monitoratge:
   • Crea la carpeta /prova
+![image](https://github.com/user-attachments/assets/79a9f963-eb13-482b-82a1-13f62e98fae7)
+
   • Busca a /var/log/auth.log l'esdeveniment on es registra que has creat la
     carpeta.
+    ![image](https://github.com/user-attachments/assets/6470c609-db67-4fe0-b81f-560823cdeaae)
+
   • Elimina-la.
+  ![image](https://github.com/user-attachments/assets/45ce3a34-0241-46f7-905c-363143619fb5)
+
   • Busca l'esdeveniment on es registra que l'has eliminat.
+  ![image](https://github.com/user-attachments/assets/b04ea1ea-a6d6-42d1-bc21-07c9ac3d073a)
+
   • Inicialitza gedit.
+  ![image](https://github.com/user-attachments/assets/e8340b28-69e7-4391-a306-5719a3ad8949)
+
   • Busca a /var/log/syslog el registre d'obertura de gedit.
+  ![image](https://github.com/user-attachments/assets/7e79a948-be39-4b8d-8500-2df38e634238)
+
   • Crea un registre que digui "Marca de X al registre" on X és el teu cognom.
+![image](https://github.com/user-attachments/assets/2ef90413-5fb8-4ad6-a468-940fd017e7d4)
+
+
   • Busca el registre i mostra'l.
+  ![image](https://github.com/user-attachments/assets/19b9c0f3-4e0f-49d3-96c7-6c8abedf0e4b)
   • Mostra els registres d'error de dmesg.
+  ![image](https://github.com/user-attachments/assets/fd4970fc-7786-40c2-a6e1-c897ce5660eb)
+
   • Mostra de forma gràfica els registres d'aplicacions del sistema.
+  ![image](https://github.com/user-attachments/assets/aa6e991d-48b3-423b-a2d6-8dc09c46925c)
+
   • Obre una aplicació i mostra el registre a l'aplicació gràfica.
+![image](https://github.com/user-attachments/assets/63d48309-858c-4c24-a1c0-19acb7274870)
+
