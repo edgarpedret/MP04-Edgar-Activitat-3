@@ -21,9 +21,10 @@ el següent:
   ![Captura desde 2024-12-03 12-08-54](https://github.com/user-attachments/assets/a43ce44f-bf55-46ed-b86e-4e24a88ef638)
   ![Captura desde 2024-12-03 12-09-30](https://github.com/user-attachments/assets/8eebd311-f9cd-4021-b52c-e96375f71c52)
   ![Captura desde 2024-12-03 12-11-01](https://github.com/user-attachments/assets/f37a0f9c-a0c7-4a46-b963-73075d01ab87)
-  ![Captura desde 2024-12-03 12-20-07](https://github.com/user-attachments/assets/9305c51d-54f0-4876-9377-63c7a24ab61f)
+ 
 5. Amb la comanda htop mostra el percentatge de la memòria utilitzada.
-6. Utilitzant gnome-system-monitor mostra:
+    ![Captura desde 2024-12-03 12-20-07](https://github.com/user-attachments/assets/9305c51d-54f0-4876-9377-63c7a24ab61f)
+7. Utilitzant gnome-system-monitor mostra:
   • El procés que utilitza més memòria.
   • El procés que utilitza més CPU.
   • Obre el programa calculadora i busca'l.
@@ -35,7 +36,7 @@ el següent:
   • Canvia les preferències per que els processos s'actualitzin cada 2
     segons i per que mostri l'estat d'execució dels processos.
   • Busca els processos que estan en estat d'execució i mostra'ls.
-7. Monitoratge:
+8. Monitoratge:
   • Crea la carpeta /prova
   • Busca a /var/log/auth.log l'esdeveniment on es registra que has creat la
     carpeta.
